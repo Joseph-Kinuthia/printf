@@ -3,6 +3,8 @@
 /**
  * _printf - prints to the output
  *
+ *@format:pointer
+ *
  * Return: input len
  *
  */
